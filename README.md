@@ -1,2 +1,2 @@
 # js-stand-alone-doc
-Stand Alone Javascript Documentation Generator.
+Javascript Stand Alone Documentation Generator.
