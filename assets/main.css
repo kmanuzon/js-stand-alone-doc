@@ -1,0 +1,10 @@
+#nu-main-content {
+    margin-bottom: 70px;
+}
+#nu-bottom-nav {
+    border: none;
+}
+#nu-json-output {
+    font-size: 10px;
+    max-height: 120px;
+}
